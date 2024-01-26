@@ -1,0 +1,80 @@
+* {
+    font-family: 'Myfont1', sans-serif;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    /* Menghapus margin bawaan halaman */
+}
+
+body h1 {
+    margin-top: 10vh;
+}
+
+body .judul {
+    font-size: 30px;
+    margin-top: 10vh;
+    width: 80vh;
+}
+
+body .pendahuluan {
+    font-size: 30px;
+    margin-top: 10vh;
+    width: 80vh;
+}
+
+body .text-pendahuluan {
+    width: 80vh;
+    text-align: justify;
+    font-size: 3vh;
+}
+
+body .text {
+    width: 80vh;
+    text-align: justify;
+    font-size: 3vh;
+}
+
+body .Bab-1 {
+    text-align: center;
+    justify-content: center;
+}
+
+body .image {
+    width: 20%;
+}
+
+body .judul2 {
+    font-size: 30px;
+    margin-top: 10vh;
+    width: 80vh;
+}
+
+body .text2 {
+    width: 80vh;
+    text-align: justify;
+    font-size: 3vh;
+}
+
+body ol {
+    font-size: 30px;
+    width: 80vh;
+}
+
+body .judul3 {
+    font-size: 30px;
+    margin-top: 10vh;
+    width: 80vh;
+}
+
+body .text3 {
+    width: 80vh;
+    text-align: justify;
+    font-size: 3vh;
+    font-style: bold;
+}
